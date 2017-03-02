@@ -1,3 +1,2 @@
-See:  
-http://semver.org/lang/zh-CN/  
-https://github.com/mojombo/semver.org/blob/gh-pages/lang/zh-CN/index.md  
+- [语义化版本 2.0.0](http://semver.org/lang/zh-CN/)
+- [语义化版本 2.0.0](https://github.com/mojombo/semver.org/blob/gh-pages/lang/zh-CN/index.md)
